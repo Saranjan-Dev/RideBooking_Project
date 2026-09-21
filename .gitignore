@@ -27,3 +27,9 @@ yarn-error.log*
 
 # IDE
 .idea/
+
+# Visual Studio
+.vs/
+
+# IDE
+.idea/
