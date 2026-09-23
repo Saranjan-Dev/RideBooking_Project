@@ -137,3 +137,4 @@ Z:\Angular Practice\Day1 (16.09.26)\RideBooking.API\obj\Debug\net8.0\refint\Ride
 Z:\Angular Practice\Day1 (16.09.26)\RideBooking.API\obj\Debug\net8.0\RideBooking.API.pdb
 Z:\Angular Practice\Day1 (16.09.26)\RideBooking.API\obj\Debug\net8.0\RideBooking.API.genruntimeconfig.cache
 Z:\Angular Practice\Day1 (16.09.26)\RideBooking.API\obj\Debug\net8.0\ref\RideBooking.API.dll
+Z:\Angular Practice\Day1 (16.09.26)\RideBooking.API\obj\Debug\net8.0\RideBooking.API.sourcelink.json
