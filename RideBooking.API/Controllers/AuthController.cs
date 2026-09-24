@@ -20,16 +20,24 @@ namespace RideBooking.API.Controllers
         {
             var result = await _authService.RegisterAsync(request);
 
-            if (!result)
+            if (!result.Success)
             {
-                return Conflict(new
+                if (result.Message == "Email already exists.")
                 {
-                    message = "Email already exists."
+                    return Conflict(new
+                    {
+                        message = result.Message
+                    });
+                }
+
+                return StatusCode(500, new
+                {
+                    message = result.Message
                 });
             }
             return Ok(new
             {
-                message = "Registration successful."
+                message = result.Message
             });
 
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RideBooking.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af02d0c2b0bede0605a17e52d351f8b1d58291f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41836995c0c06030eeb5105f3f156fb70f7665c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("RideBooking.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RideBooking.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
